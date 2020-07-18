@@ -2,6 +2,8 @@
 
 Hi! This is a **showcase** repository to show the evolution of my custom Game Engine.
 
+<img src="./druid.png">
+
 > Druid Engine is a C++ / OpenGL Game Engine made from scratch with the only purpose of improving my gamedev and programming skills.
 
 * Follow the progress of the project also on Twitter
