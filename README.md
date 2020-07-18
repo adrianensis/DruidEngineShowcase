@@ -11,8 +11,9 @@ Hi! This is a **showcase** repository to show the evolution of my custom Game En
 ## Showcase - Evolution of Druid Engine
 **The gifs are chronologically sorted.**
 
-|<img src="./Gifs/1.gif"/>|
+| |
 |---|
+|<img src="./Gifs/1.gif"/>|
 |<img src="./Gifs/2.gif"/>|
 |<img src="./Gifs/3.gif"/>|
 |<img src="./Gifs/4.gif"/>|
