@@ -1,111 +1,58 @@
-# Druid Engine
+# 🌿🎮 Druid Engine
 
-Hi! This is a **showcase** repository to show the evolution of my custom Game Engine.
+**Index**
+* [About the author](#about-the-author)
+* [Evolution of Druid Engine](#evolution-of-druid-engine)
+* [YouTube Devlogs](#youtube-devlogs)
 
-<img src="./druid.png" width=60%>
+---
 
-> Druid Engine is a C++ / OpenGL Game Engine made from scratch with the only purpose of improving my gamedev and programming skills.
+Hi! This is a **showcase** repository to show the evolution of my custom 2D C++ Game Engine, 🌿🎮 Druid Engine.
 
-* Follow the progress of the project also on Twitter
-  * Twitter: https://twitter.com/AdrianensisDev
-  * Portfolio: https://adrianecom.github.io/portfolio/
+<img src="./druid.png" width=50%>
 
-## Showcase - Evolution of Druid Engine
-**The gifs are chronologically sorted.**
+> Druid Engine 🌿🎮 is a C++ / OpenGL Game Engine made from scratch with the only purpose of improving my gamedev and programming skills.
 
-| |
+---
+
+## About the author
+
+   Hi again! I'm Adrian, passionate about gamedev, working on Druid Engine.
+   C++ UE4 programmer during day!
+
+  <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" width=4%> **Twitter**: [Link to my Twitter profile](https://twitter.com/AdrianensisDev)
+  <img src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png" width=3.8%> **YouTube**: [Link to my YouTube channel](https://www.youtube.com/c/Adrianensis)
+  <img src="https://hotemoji.com/images/dl/b/books-emoji-by-twitter.png" width=2.8%> **Portfolio**: [Link to my Portfolio](https://adrianecom.github.io/portfolio)
+
+---
+
+## Evolution of Druid Engine
+
+|   |   |   |
+|---|---|---|
+|<img src="./Gifs/8.gif"/>|<img src="./Gifs/10.gif"/>|<img src="./Gifs/20.gif"/>|
+|<img src="./Gifs/30.gif"/>|<img src="./Gifs/44.gif"/>|<img src="./Gifs/50.gif"/>|
+|<img src="./Gifs/70.gif"/>|<img src="./Gifs/80.gif"/>|**+80 gifs [here!](Evolution.md) 🌿🎮**|
+
+## YouTube Devlogs
+
+<!-- <img src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png" width=40%> -->
+
+I created a short Devlog series in YouTube to explain in general aspects the most important modules I implemented in Druid Engine.
+
+|Links to my YouTube channel and the Devlog playlist|
 |---|
-|<img src="./Gifs/1.gif"/>|
-|<img src="./Gifs/2.gif"/>|
-|<img src="./Gifs/3.gif"/>|
-|<img src="./Gifs/4.gif"/>|
-|<img src="./Gifs/5.gif"/>|
-|<img src="./Gifs/6.gif"/>
-|<img src="./Gifs/7.gif"/>|
-|<img src="./Gifs/8.gif"/>|
-|<img src="./Gifs/9.gif"/>|
-|<img src="./Gifs/10.gif"/>|
-|<img src="./Gifs/11.gif"/>|
-|<img src="./Gifs/12.gif"/>|
-|<img src="./Gifs/13.gif"/>|
-|<img src="./Gifs/14.gif"/>|
-|<img src="./Gifs/15.gif"/>|
-|<img src="./Gifs/16.gif"/>|
-|<img src="./Gifs/17.gif"/>|
-|<img src="./Gifs/18.gif"/>|
-|<img src="./Gifs/17.gif"/>|
-|<img src="./Gifs/18.gif"/>|
-|<img src="./Gifs/19.gif"/>|
-|<img src="./Gifs/20.gif"/>|
-|<img src="./Gifs/21.gif"/>|
-|<img src="./Gifs/22.gif"/>|
-|<img src="./Gifs/23.gif"/>|
-|<img src="./Gifs/24.gif"/>|
-|<img src="./Gifs/25.gif"/>|
-|<img src="./Gifs/26.gif"/>|
-|<img src="./Gifs/27.gif"/>|
-|<img src="./Gifs/28.gif"/>|
-|<img src="./Gifs/27.gif"/>|
-|<img src="./Gifs/28.gif"/>|
-|<img src="./Gifs/29.gif"/>|
-|<img src="./Gifs/30.gif"/>|
-|<img src="./Gifs/31.gif"/>|
-|<img src="./Gifs/32.gif"/>|
-|<img src="./Gifs/33.gif"/>|
-|<img src="./Gifs/34.gif"/>|
-|<img src="./Gifs/35.gif"/>|
-|<img src="./Gifs/36.gif"/>|
-|<img src="./Gifs/37.gif"/>|
-|<img src="./Gifs/38.gif"/>|
-|<img src="./Gifs/37.gif"/>|
-|<img src="./Gifs/38.gif"/>|
-|<img src="./Gifs/39.gif"/>|
-|<img src="./Gifs/40.gif"/>|
-|<img src="./Gifs/41.gif"/>|
-|<img src="./Gifs/42.gif"/>|
-|<img src="./Gifs/43.gif"/>|
-|<img src="./Gifs/44.gif"/>|
-|<img src="./Gifs/45.gif"/>|
-|<img src="./Gifs/46.gif"/>|
-|<img src="./Gifs/47.gif"/>|
-|<img src="./Gifs/48.gif"/>|
-|<img src="./Gifs/47.gif"/>|
-|<img src="./Gifs/48.gif"/>|
-|<img src="./Gifs/49.gif"/>|
-|<img src="./Gifs/50.gif"/>|
-|<img src="./Gifs/51.gif"/>|
-|<img src="./Gifs/52.gif"/>|
-|<img src="./Gifs/53.gif"/>|
-|<img src="./Gifs/54.gif"/>|
-|<img src="./Gifs/55.gif"/>|
-|<img src="./Gifs/56.gif"/>|
-|<img src="./Gifs/57.gif"/>|
-|<img src="./Gifs/58.gif"/>|
-|<img src="./Gifs/57.gif"/>|
-|<img src="./Gifs/58.gif"/>|
-|<img src="./Gifs/59.gif"/>|
-|<img src="./Gifs/60.gif"/>|
-|<img src="./Gifs/61.gif"/>|
-|<img src="./Gifs/62.gif"/>|
-|<img src="./Gifs/63.gif"/>|
-|<img src="./Gifs/64.gif"/>|
-|<img src="./Gifs/65.gif"/>|
-|<img src="./Gifs/66.gif"/>|
-|<img src="./Gifs/67.gif"/>|
-|<img src="./Gifs/68.gif"/>|
-|<img src="./Gifs/69.gif"/>|
-|<img src="./Gifs/70.gif"/>|
-|<img src="./Gifs/71.gif"/>|
-|<img src="./Gifs/72.gif"/>|
-|<img src="./Gifs/73.gif"/>|
-|<img src="./Gifs/74.gif"/>|
-|<img src="./Gifs/75.gif"/>|
-|<img src="./Gifs/76.gif"/>|
-|<img src="./Gifs/77.mp4"/>|
-|<img src="./Gifs/78.gif"/>|
-|<img src="./Gifs/79.gif"/>|
-|<img src="./Gifs/80.gif"/>|
-|<img src="./Gifs/81.gif"/>|
-|<img src="./Gifs/82.gif"/>|
-|<img src="./Gifs/83.gif"/>|
-|<img src="./Gifs/84.gif"/>|
+|[<img src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png" width=3.8%> Link to my YouTube channel](https://www.youtube.com/c/Adrianensis)|
+|[<img src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png" width=3.8%> Link to Druid Engine - Devlog Playlist](https://www.youtube.com/watch?v=ViNNHauNDpw&list=PLfQ-ZA-2VtX2gE5ZX4U3I63zGHeWsxyxk)|
+
+#### Druid Engine - Devlog Playlist
+
+Here all the single videos in the playlist in case you want to take a quick look.
+**Click any image** to go to the video!
+
+|   |   |   |
+|---|---|---|
+|[<img src="https://img.youtube.com/vi/ViNNHauNDpw/0.jpg">](https://www.youtube.com/watch?v=ViNNHauNDpw)|[<img src="https://img.youtube.com/vi/O7SM94nIfVg/0.jpg">](https://www.youtube.com/watch?v=O7SM94nIfVg)|[<img src="https://img.youtube.com/vi/XduOT0DWK-c/0.jpg">](https://www.youtube.com/watch?v=XduOT0DWK-c)|
+|[<img src="https://img.youtube.com/vi/JsFuFA9nLpE/0.jpg">](https://www.youtube.com/watch?v=JsFuFA9nLpE)|[<img src="https://img.youtube.com/vi/JxJW0vuo_kw/0.jpg">](https://www.youtube.com/watch?v=JxJW0vuo_kw)|[<img src="https://img.youtube.com/vi/BqxLhTcZmtg/0.jpg">](https://www.youtube.com/watch?v=BqxLhTcZmtg)|
+
+---
