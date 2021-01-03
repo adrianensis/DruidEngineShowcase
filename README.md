@@ -22,7 +22,7 @@ Hi! This is a **showcase** repository to show the evolution of my custom 2D C++ 
 
   * <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" width=4%> **Twitter**: [Link to my Twitter profile](https://twitter.com/AdrianensisDev)
   * <img src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png" width=3.8%> **YouTube**: [Link to my YouTube channel](https://www.youtube.com/c/Adrianensis)
-  * <img src="https://hotemoji.com/images/dl/b/books-emoji-by-twitter.png" width=2.8%> **Portfolio**: [Link to my Portfolio](https://adrianecom.github.io/portfolio)
+  * <img src="https://hotemoji.com/images/dl/b/books-emoji-by-twitter.png" width=2.8%> **Portfolio**: [Link to my Portfolio](https://adrianensis.github.io/portfolio)
 
 ---
 
