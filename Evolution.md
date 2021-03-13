@@ -96,3 +96,14 @@
 |<img src="./Gifs/81.gif"/>|
 |<img src="./Gifs/82.gif"/>|
 |<img src="./Gifs/83.gif"/>|
+|<img src="./Gifs/84.gif"/>|
+|<img src="./Gifs/85.gif"/>|
+|<img src="./Gifs/86.gif"/>|
+|<img src="./Gifs/87.gif"/>|
+|<img src="./Gifs/88.gif"/>|
+|<img src="./Gifs/89.gif"/>|
+|<img src="./Gifs/90.gif"/>|
+|<img src="./Gifs/91.gif"/>|
+|<img src="./Gifs/92.gif"/>|
+|<img src="./Gifs/93.gif"/>|
+|<img src="./Gifs/94.gif"/>|

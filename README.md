@@ -17,8 +17,7 @@ Hi! This is a **showcase** repository to show the evolution of my custom 2D C++ 
 
 ## About the author
 
-   Hi again! I'm Adrian, passionate about gamedev, working on Druid Engine.
-   C++ UE4 programmer during day!
+  Hi! I'm Adrian, UE4/C++ games programmer. You can find me on Twitter and YouTube :D
 
   * <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" width=4%> **Twitter**: [Link to my Twitter profile](https://twitter.com/AdrianensisDev)
   * <img src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png" width=3.8%> **YouTube**: [Link to my YouTube channel](https://www.youtube.com/c/Adrianensis)
